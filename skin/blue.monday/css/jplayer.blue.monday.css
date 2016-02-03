@@ -37,7 +37,7 @@
   background-color: #eee; }
 
 .jp-audio {
-  width: 420px; }
+  width: 320px; }
 
 .jp-audio-stream {
   width: 182px; }
@@ -296,14 +296,16 @@
   width: 60px;
   font-size: .64em;
   font-style: oblique;
-  padding-right: 5px;
+  padding-right: 130px;
+  padding-top: 5px;
 }
 
 .jp-current-time {
   float: left;
   display: inline;
   cursor: default;
-  padding-left: 5px;
+  padding-left: 10px;
+  padding-top: 5px;
 }
 
 .jp-duration {
